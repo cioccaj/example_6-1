@@ -8,7 +8,7 @@ Where the blank space after temperature shows temperature reading from temperatu
 
 From original file, changed the LCD display to show:<br>
 
-TMP:__'C GAS:__<br>
-ALARM:___<br>
+TMP:__'C GAS:__ <br>
+ALARM:___ <br>
 
 Where the blank space after TMP shows temperature reading from temperature sensor, blank space after Gas shows either ND or D, and the blank space after Alarm displays either ON or OFF.
