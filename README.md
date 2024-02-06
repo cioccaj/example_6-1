@@ -6,7 +6,7 @@ Alarm:___ <br>
 
 Where the blank space after temperature shows temperature reading from temperature sensor, blank space after Gas shows either Not Detected or Detected, and the blank space after Alarm displays either ON or OFF.<br>
 
-From original file, changed the LCD display to show:<br>
+From original file, changed the LCD display to show: <br>
 
 TMP:___'C GAS:____ <br>
 ALARM:___ <br>
